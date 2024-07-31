@@ -1,8 +1,4 @@
 
-Sure, here's a README.md file content for your project:
-
-markdown
-Copy code
 # Weather Image Classification
 
 This project focuses on training a machine learning model to classify weather conditions based on images. The model is trained on a large dataset containing images representing various weather conditions such as rain, sunshine, sandstorm, snow, etc. Once trained, the model can predict the weather condition of a given image.
